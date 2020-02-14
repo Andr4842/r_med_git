@@ -1,4 +1,4 @@
-a <- 2
+a <- "fuck up"
 b <- 4
 source("test_function.R")
 d <- test_function(4)
