@@ -1,5 +1,6 @@
 a <- 8
 b <- 4
+#kommentar
 source("test_function.R")
 d <- test_function(4)
 # Define the cars vector with 5 values
